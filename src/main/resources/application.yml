@@ -3,4 +3,4 @@ spring:
   application:
     name: gitIp
 server:
-  port: 8800
+  port: 8811
